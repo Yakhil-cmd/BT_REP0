@@ -3,5 +3,5 @@ import os
 
 
 MAX_REPO = 25
-SOURCE_REPO = "defuse-protocol/sdk-monorepo"
-REPO_NAME = "sdk-monorepo"
+SOURCE_REPO = "ethereum/c-kzg-4844"
+REPO_NAME = "c-kzg-4844"
