@@ -3,5 +3,5 @@ import os
 
 
 MAX_REPO = 4
-SOURCE_REPO = "Hinkal-Protocol/Hinkal-Contracts-Circuits"
-REPO_NAME = "Hinkal-Contracts-Circuits"
+SOURCE_REPO = "defuse-protocol/sdk-monorepo"
+REPO_NAME = "sdk-monorepo"
