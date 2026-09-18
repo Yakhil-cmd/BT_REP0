@@ -3,5 +3,5 @@ import os
 
 
 MAX_REPO = 25
-SOURCE_REPO = "raydium-io/raydium-cp-swap"
-REPO_NAME = "raydium-cp-swap"
+SOURCE_REPO = "paritytech/polkadot-sdk"
+REPO_NAME = "paritytech/polkadot-sdk"
