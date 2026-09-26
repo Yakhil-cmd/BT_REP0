@@ -1,7 +1,10 @@
 import json
 import os
 
-
 MAX_REPO = 25
-SOURCE_REPO = "paritytech/polkadot-sdk"
-REPO_NAME = "paritytech/polkadot-sdk"
+SOURCE_REPO = "XOXNO/rs-lending-xlm"
+REPO_NAME = "rs-lending-xlm"
+TREE = ""
+BRANCH = ""
+# Example:
+# https://github.com/pushchain/push-chain-node/tree/0648551281dada6e300f51baca0e7464cb210eef/
