@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "XOXNO/rs-lending-xlm"
-REPO_NAME = "rs-lending-xlm"
+SOURCE_REPO = "rsksmart/rsk-powhsm"
+REPO_NAME = "rsk-powhsm"
 TREE = ""
 BRANCH = ""
 # Example:
